@@ -29,6 +29,7 @@ https://simpleicons.org/
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visual-studio&labelColor=930096)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-000000?style=flat&logo=tfs&labelColor=1572B6)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=007ACC&labelColor=ffffff)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio&labelColor=007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
