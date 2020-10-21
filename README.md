@@ -20,7 +20,7 @@ https://simpleicons.org/
 <h3 align='center'><strong><a href="https://github.com/graham22/graham22.github.io/blob/master/GrahamRossResume.pdf" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Full-stack Software developer | .NET C# | WCF | Web developer</p>
 
-Developer using multiple tools, __frameworks and libraries__ both in frontend and backend.
+<p align='center'>Developer using multiple tools, <b>frameworks and libraries</b> both in frontend and backend.</p>
 
 💻 **Languages and Tools:** 🛠️<br>
 
