@@ -21,7 +21,7 @@ https://simpleicons.org/
 <p align='center'>Full-stack Software developer | .NET C# | WCF | Web developer</p>
 
 
-💻 **Languages and Tools:** 🛠️<br>
+**Languages and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
