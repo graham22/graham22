@@ -8,7 +8,6 @@ https://simpleicons.org/
 
 --> 
 
-### Hi there 👋, my name is Graham
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Graham-Ross?label=Follow%20Me&style=social)](https://github.com/graham22)
 <br>
@@ -17,10 +16,13 @@ https://simpleicons.org/
 [![Mail](https://img.shields.io/badge/Gmail-graham.a.ross@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=black)](mailto:graham.a.ross@gmail.com)
 <br>
 
+<h2 align='center'><samp><strong>Hi there 👋, my name is Graham Ross</strong></samp></h2>
 <h3 align='center'><strong><a href="https://github.com/graham22/graham22.github.io/blob/master/GrahamRossResume.pdf" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Full-stack Software developer | .NET C# | WCF | Web developer</p>
 
-<p align='center'>Developer using multiple tools, <b>frameworks and libraries</b> both in frontend and backend.</p>
+
+
+<p align='left'> 📫 Developer using multiple tools, <b>frameworks and libraries</b> both in frontend and backend.</p>
 
 💻 **Languages and Tools:** 🛠️<br>
 
