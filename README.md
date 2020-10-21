@@ -17,7 +17,7 @@ https://simpleicons.org/
 <br>
 
 <h2 align='center'><samp><strong>Hi there 👋, my name is Graham Ross</strong></samp></h2>
-<h3 align='center'><strong><a href="https://github.com/graham22/graham22.github.io/blob/master/GrahamRossResume.pdf" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://github.com/graham22/graham22.github.io/raw/master/GrahamRossResume.pdf" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Full-stack Software developer | .NET C# | WCF | Web developer</p>
 
 
