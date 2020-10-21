@@ -20,18 +20,22 @@ https://simpleicons.org/
 <h3 align='center'><strong><a href="https://github.com/graham22/graham22.github.io/blob/master/GrahamRossResume.pdf" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Full-stack Software developer | .NET C# | WCF | Web developer</p>
 
-<p align='center'>Developer using multiple tools, __frameworks and libraries__ both in frontend and backend.</p>
+Developer using multiple tools, __frameworks and libraries__ both in frontend and backend.
 
 💻 **Languages and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visual-studio&labelColor=930096)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-000000?style=flat&logo=tfs&labelColor=1572B6)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio&labelColor=007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=flat&logo=microsoft-sql-server&labelColor=007ACC)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
