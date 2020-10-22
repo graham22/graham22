@@ -12,7 +12,7 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Graham-Ross?label=Follow%20Me&style=social)](https://github.com/graham22)
 -->
 <br> 
-<h2 align='center'><samp><strong>Hi there 👋, my name is Graham Ross</strong></samp></h2>
+<h2 align='center'><strong>Hi there 👋, my name is Graham Ross</strong></h2>
 <br> 
 
 ***Feel free to contact me.*** 📝<br>
