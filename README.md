@@ -13,9 +13,7 @@ https://simpleicons.org/
 -->
 <br> 
 
-📝 ***Feel free to contact me.
-
-<br>
+***Feel free to contact me.*** 📝<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Graham%20Ross-blue?logo=Linkedin&logoColor=blue&labelColor=black&target="_blank")](https://www.linkedin.com/in/rossconsulting)
 [![Mail](https://img.shields.io/badge/Gmail-graham.a.ross@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=black)](mailto:graham.a.ross@gmail.com)
